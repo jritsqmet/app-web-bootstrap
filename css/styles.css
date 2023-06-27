@@ -1,0 +1,33 @@
+.columna1{
+    width: 65%;
+}
+
+.columna2{
+    width: 30%;
+}
+
+.columna{
+    width: 5%;
+}
+
+main{
+    display: flex;
+}
+
+p{
+    text-align: justify;
+}
+
+.img-user{
+   width: 100px;
+   align-self: center;
+}
+
+footer{
+    background-color: #183c5f;
+}
+
+.pie{
+    color: aliceblue;
+    text-align: center;
+}
